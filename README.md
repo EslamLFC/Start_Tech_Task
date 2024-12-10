@@ -1,5 +1,5 @@
 ## Start_Tech_Task
-# Start Tech Automation Assessment using selenium by java  
+Start Tech Automation Assessment using selenium by java  
 * Implement a BASE test automation framework  using Selenium for testing IN-Room Dining Feature.
 * Implement modular design by Applying the Page Object Model design pattern (POM).
 ---
